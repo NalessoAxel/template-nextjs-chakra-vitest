@@ -22,8 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You will find multiple library to start your project: 
 
  - [Framer-motion](https://www.framer.com/docs/) to make beautiful animations
- - [Scrollex] (https://scrollex-docs.vercel.app/) animation on scroll based on framer-motion
- - [Chakra-ui] (https://chakra-ui.com/) Library to build your Ui. Based on Emotion.
- - [Vitest] (https://vitest.dev/)
+ - [Scrollex](https://scrollex-docs.vercel.app/) animation on scroll based on framer-motion
+ - [Chakra-ui](https://chakra-ui.com/) Library to build your Ui. Based on Emotion.
+ - [Vitest](https://vitest.dev/)
  - Eslint and Prettier basic configuration.
 
